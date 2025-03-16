@@ -2,7 +2,7 @@
 # 📊 Predicting Birth Plans Based on Socioeconomic Factors
 
 ## 📝 Overview
-This project analyzes factors influencing individuals' plans to have children using a dataset from the **Korean Longitudinal Survey of Women and Families (KLoWF)** and **Korean Statistical Information Service (KOSIS)**. The study utilizes **Random Forest Classification** and **Logistic Regression** to determine key predictors of birth planning.
+This project analyzes factors influencing individuals' plans to have children using a dataset from the **Korean Longitudinal Survey of Women and Families (KLoWF)** . The study utilizes **Random Forest Classification** and **Logistic Regression** to determine key predictors of birth planning.
 
 ### 🔍 Two Perspectives of Analysis
 This project examines birth planning from two different perspectives:
@@ -18,7 +18,6 @@ This project examines birth planning from two different perspectives:
 ## 📂 Dataset
 ### 📌 Source
 The dataset is sourced from:
-- 📊 **[Korean Statistical Information Service (KOSIS)](https://kosis.kr/index/index.do)**
 - 📊 **[Korean Longitudinal Survey of Women and Families (KLoWF)](https://gsis.kwdi.re.kr/gsis/en/main.html)**
 
 ### 🔍 Features
@@ -70,7 +69,7 @@ The project implements:
 ✔ **Age is a significant predictor of birth planning** 📊
 ✔ **Individuals with no plans to have children tend to have higher average incomes** 💵
 ✔ **Economic and health concerns are major factors influencing decisions** 🏥💰
-✔ **Class imbalance is present, requiring careful handling (SMOTE, class-weight balancing)** ⚖️
+
 
 ---
 

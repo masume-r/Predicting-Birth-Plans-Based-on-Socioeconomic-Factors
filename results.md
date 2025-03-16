@@ -26,7 +26,6 @@ In this part of the study, we analyzed factors affecting **all individuals**, re
 
 ### 📌 Observations:
 - **Age Factor:** The likelihood of planning for a child **significantly drops** after the age of **30**.
-- **Marital Status:** Married individuals are **4.2 times** more likely to plan for children than unmarried individuals.
 - **Economic Concerns:** People who worry about financial stability have a **45% lower** chance of planning for a child.
 - **Education Level:** Higher education levels correlate negatively with birth planning.
 

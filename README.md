@@ -89,14 +89,6 @@ The project implements:
    python train_model.py
    ```
 
----
-
-## ⚠️ Limitations
-- ⚖ **The dataset is unbalanced, which may affect prediction performance**
-- ❓ **Some variables have missing or imputed values that could introduce bias**
-- 🔧 **Further hyperparameter tuning and feature engineering could improve accuracy**
-
----
 
 ## 👥 Contributors
 - **Your Name** - [GitHub Profile](https://github.com/yourusername)
